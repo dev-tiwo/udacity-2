@@ -22,3 +22,8 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+## EB Endpoint
+
+http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
+
