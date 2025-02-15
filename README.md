@@ -25,5 +25,6 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 
 ## EB Endpoint
 
-http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
+http://projectstartercode-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://as1.ftcdn.net/v2/jpg/01/25/63/94/1000_F_125639489_JWy8LEJzjIDMWes5UL0XLWUZQQPBidxs.jpg
+
 
